@@ -1,7 +1,10 @@
 # MySQL_Case_Study
 This case study is about a simple donation system that will help you to practice working with the database as a real project
-here is a brief about database tables and the relations between tables
+here is a brief about database tables and the relations between tablesز
+
 here is  a database schema 
+
+![سيكما](https://user-images.githubusercontent.com/59260120/223846458-4e8b821f-a3e6-4a57-9342-c0a36815ba89.png)
 
 The users table has information about the user in the system 
 and users_roles table to determine the roles of users if the user is an admin or users are donors who donate or it using a normal user on the website without a donation.

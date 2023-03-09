@@ -4,7 +4,8 @@ here is a brief about database tables and the relations between tablesز
 
 here is  a database schema 
 
-![سيكما](https://user-images.githubusercontent.com/59260120/223846458-4e8b821f-a3e6-4a57-9342-c0a36815ba89.png)
+![sql](https://user-images.githubusercontent.com/59260120/224130543-f373f3a3-a710-4e40-9709-e2f336b53f68.png)
+
 
 The users table has information about the user in the system 
 and users_roles table to determine the roles of users if the user is an admin or users are donors who donate or it using a normal user on the website without a donation.

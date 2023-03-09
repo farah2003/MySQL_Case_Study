@@ -24,3 +24,11 @@ this is a database schema
 ## Let's get started
 install this repository [build_sql_case_database ](https://github.com/farah2003/build_sql_case_database )  
 open build.sql file in MySQL workbench
+
+### let's practice
+
+#### Easy
+
+#### Intermediate
+
+#### Hard

@@ -7,6 +7,6 @@ this is a database schema
 ![sql](https://user-images.githubusercontent.com/59260120/224130543-f373f3a3-a710-4e40-9709-e2f336b53f68.png)
 
 
-## let start
+## Let's get started
 install this repository [build_sql_case_database ](https://github.com/farah2003/build_sql_case_database )  
 open build.sql file in MySQL workbench

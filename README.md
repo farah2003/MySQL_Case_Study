@@ -18,4 +18,5 @@ The capon contains is contain the families and the amount of money the family ta
 the families table contains the infrmation about the families 
 
 ## let start
-install this repository open build.sql file in MySQL workbench https://github.com/farah2003/build_sql_case_database 
+install this repository https://github.com/farah2003/build_sql_case_database 
+open build.sql file in MySQL workbench

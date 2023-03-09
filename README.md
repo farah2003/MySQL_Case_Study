@@ -8,5 +8,5 @@ this is a database schema
 
 
 ## let start
-install this repository https://github.com/farah2003/build_sql_case_database 
+install this repository[build_sql_case_database ](https://github.com/farah2003/build_sql_case_database )  
 open build.sql file in MySQL workbench

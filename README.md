@@ -29,6 +29,9 @@ this is a database schema
 
 
 #### Easy
+##### Get user_id, email and first_name for users with lastname doe.
+
+![1](https://user-images.githubusercontent.com/59260120/224186440-597d6a7d-182e-42d3-a41c-91fd51e1957d.png)
 
 #### Intermediate
 

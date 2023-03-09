@@ -7,10 +7,10 @@ this is a database schema
 ![sql](https://user-images.githubusercontent.com/59260120/224130543-f373f3a3-a710-4e40-9709-e2f336b53f68.png)
 
 #### Reatlions between tables
-- Many to one between user and user_roles (user has only one role and the role can be for many users)
-- Many to one beteen campaign and campaigns_statuses(campaign has one status and the status can be for many campagins)
-- Many to one between campaigns and catergory (campaign has one category  and the category can be for many campagins)
-- Many to many campaigns and users (user can donate to many campagins and campagins donated by many users)
+- Many to One between users and users_roles (user has only one role and the role can be for many users)
+- Many to One between campaign and campaigns_statuses (campaign has one status and the status can be for many campagins)
+- Many to One between campaigns and catergories (campaign has one category and the category can be for many campagins)
+- Many to Many campaigns and users (user can donate to many campagins and campagins donated by many users)
 - the donation donated by one user and the donation belong to one campagin 
 - (many to one between donations(campagin_user) and users and many to one between donations and campaigns)
 - Many to many between families and campagins (Families can benfit form many campagins and campagins can target many families)

@@ -8,14 +8,18 @@ this is a database schema
 
 #### Reatlions between tables
 - Many to One between users and users_roles (user has only one role and the role can be for many users)
+
 - Many to One between campaign and campaigns_statuses (campaign has one status and the status can be for many campagins)
+
 - Many to One between campaigns and catergories (campaign has one category and the category can be for many campagins)
+
 - Many to Many campaigns and users (user can donate to many campagins and campagins donated by many users)
-- the donation donated by one user and the donation belong to one campagin 
-- (many to one between donations(campagin_user) and users and many to one between donations and campaigns)
-- Many to many between families and campagins (Families can benfit form many campagins and campagins can target many families)
-- the capon for one families and the capon belong to one campagin 
-Many to one between capons(family_campagin) and families and many to one between capons(family_campagin)  and campaigns)
+
+- Many to one between donations and users and many to one between donations and campaigns (the donation donated by one user and the donation belong to one campagin)
+
+- Many to Many between families and campagins (Families can benfit form many campagins and campagins can target many families)
+
+- Many to One between capons and families and many to one between capons and campaigns (the capon for one families and the capon belong to one campagin )
 
 ## Let's get started
 install this repository [build_sql_case_database ](https://github.com/farah2003/build_sql_case_database )  

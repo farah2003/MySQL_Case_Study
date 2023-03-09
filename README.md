@@ -16,3 +16,6 @@ the donations table contains the donors who donate and the amount of money and w
 
 The capon contains is contain the families and the amount of money the family takes form which campaigns 
 the families table contains the infrmation about the families 
+
+## let start
+install this repository open build.sql file in MySQL workbench https://github.com/farah2003/build_sql_case_database 

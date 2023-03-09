@@ -29,10 +29,14 @@ this is a database schema
 
 
 #### Easy
-######  Get user_id , email and first_name for users with last_name doe.
+###### 1- Get user_id , email and first_name for users with last_name doe.
 
 ![1](https://user-images.githubusercontent.com/59260120/224186440-597d6a7d-182e-42d3-a41c-91fd51e1957d.png)
 
+###### 2- Get first_name , last_name and role for all user 
+##![2](https://user-images.githubusercontent.com/59260120/224187081-91e08526-c185-4ce6-8733-79bc477dff22.png)
+
 #### Intermediate
 
-#### Hard
+##
+ Hard

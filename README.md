@@ -22,10 +22,11 @@ this is a database schema
 - Many to One between capons and families and many to one between capons and campaigns ( the capon for one families and the capon belong to one campagin )
 
 ## Let's get started
-install this repository [build_sql_case_database ](https://github.com/farah2003/build_sql_case_database )  
-open build.sql file in MySQL workbench
+- install this repository [build_sql_case_database ](https://github.com/farah2003/build_sql_case_database )  
+- open build.sql file in MySQL workbench
 
 ### let's practice
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### Easy
 

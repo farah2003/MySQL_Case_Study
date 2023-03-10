@@ -58,9 +58,6 @@ this is a database schema
 ![13](https://user-images.githubusercontent.com/59260120/224189304-9c25ea95-02fc-4024-817a-3f1e92b98489.png)
 ##### 11- Get all the first , last name for user with amount of donation for each campagin and catergories for campagin
 ![14](https://user-images.githubusercontent.com/59260120/224189360-1af5f04b-4a52-4ade-8fb0-c97c8f3cd709.png)
-
-##### 20-Get the total amount of money and the total number of donors and total number of capmaign
-![15](https://user-images.githubusercontent.com/59260120/224189501-26d13632-aadf-49fd-a8e0-daeceb142c09.png)
 ##### 21-Get first name , last name and phone form families without capons 
 ##### 22-Get first name , last name and total amount of money for top three donors 
 ##### 7- Get the  third and fourth user that don't to all 
@@ -73,8 +70,22 @@ this is a database schema
 ![8](https://user-images.githubusercontent.com/59260120/224188126-e822fbed-3bfc-4461-b02a-9b9c0c6fd965.png)
 need change
 #### Intermediate
+#### 1-Get the total amount of money and the total number of donors and total number of capmaign
+![15](https://user-images.githubusercontent.com/59260120/224189501-26d13632-aadf-49fd-a8e0-daeceb142c09.png)
+#### 2- Get first name , last name and total donation(sum of donation that user donated for different campaigns) for donors with total donation greater than 200
+![donors with totalt donation   200](https://user-images.githubusercontent.com/59260120/224354624-5c59b05b-a341-4a74-89a9-d784def17327.png)
+#### 3-Get first_name , last name and total capons (Sum of capons that family get from different campaigns) for familiy with total capons less than 1000.00
+![family eith capons less that 1000 00](https://user-images.githubusercontent.com/59260120/224355065-509b49ae-c2d5-47d1-9cdb-43734949cdd9.png)
+#### 4-Get first name and last name for family يid not get capons 
+![family withour benfit from daonation](https://user-images.githubusercontent.com/59260120/224355308-49de04c5-a113-4a06-a3f0-e08b54efb325.png)
+#### 5- get fist name and last name and total amount(sum of donation that user donated for different campaigns) for tow  highest donations 
+![get top tow donors for all campagins](https://user-images.githubusercontent.com/59260120/224355688-40fcfbb1-cd41-4939-9897-3480f5d5c584.png)
+#### 6- Get fisrt name ,last name  user with donation in status donors and user without donation as status donor
+![get user with donation and user witoutn domation](https://user-images.githubusercontent.com/59260120/224356116-c3feba4e-e27a-460b-9e7a-2a3d88a27a46.png)
+#### 7- Get total number of campaigns for each catergory type
+![number of campagin for each catergoris and all](https://user-images.githubusercontent.com/59260120/224356378-47dc92c7-ebdd-4f59-b86d-77d5b7995d28.png)
+#### 8- Get total number of donors for each campains 
+##![Uploading number of donros for each campgins.png…]()
+## 
 
-
-
-##
  Hard

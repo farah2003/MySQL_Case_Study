@@ -48,7 +48,7 @@ this is a database schema
 
 ##### 6- Get title and target money for all campaigns with target money in range greater than 10000  and less than 20000
 ![6](https://user-images.githubusercontent.com/59260120/224190007-48678995-bca7-4390-b6a7-e8257970fd96.png)
-###### 7- Get capmagin name and cateegory for all campaigns with catergory Food or Health
+##### 7- Get capmagin name and cateegory for all campaigns with catergory Food or Health
 ![10](https://user-images.githubusercontent.com/59260120/224188616-e5021e32-d6f4-4f6a-8989-87fa4403eafe.png)
 ##### 8-Get capmagin name and cateegory for all campaigns with catergory Food or Education or Human Rights using (in)
 ![11](https://user-images.githubusercontent.com/59260120/224188775-bc788e23-49a0-4cb2-b3e4-0232675befa4.png)

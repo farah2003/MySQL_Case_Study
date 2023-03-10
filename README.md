@@ -33,7 +33,7 @@ this is a database schema
 
 ![1](https://user-images.githubusercontent.com/59260120/224287253-8d48ae10-087b-462a-8c81-dd1381638a9b.png)
 
-##### 2- Get first name , last name and role of all user 
+##### 2- Get first name , last name and role of all users.
 
 ![2](https://user-images.githubusercontent.com/59260120/224287309-1e2dad43-744d-483f-aa28-357e27945810.png)
 

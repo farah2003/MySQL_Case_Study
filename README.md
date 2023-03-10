@@ -48,17 +48,15 @@ this is a database schema
 
 ##### 6- Get title and target money for all campaigns with target money in range greater than 10000  and less than 20000
 ![6](https://user-images.githubusercontent.com/59260120/224190007-48678995-bca7-4390-b6a7-e8257970fd96.png)
-##### 7- get first_name , last_name  if  user has compand add status donor if not add ststus normal user
-![9](https://user-images.githubusercontent.com/59260120/224188482-bffb64e8-c9f8-4b40-96b2-919f8ad0621c.png)
-###### 8- Get capmagin name and cateegory for all campaigns with catergory Food or Health
+###### 7- Get capmagin name and cateegory for all campaigns with catergory Food or Health
 ![10](https://user-images.githubusercontent.com/59260120/224188616-e5021e32-d6f4-4f6a-8989-87fa4403eafe.png)
-##### 9-Get capmagin name and cateegory for all campaigns with catergory Food or Education or Human Rights using (in)
+##### 8-Get capmagin name and cateegory for all campaigns with catergory Food or Education or Human Rights using (in)
 ![11](https://user-images.githubusercontent.com/59260120/224188775-bc788e23-49a0-4cb2-b3e4-0232675befa4.png)
-##### 10 -Get  fisrt name , last name , email and time user login to system for all users before the "2023-01-01"
+##### 9 -Get  fisrt name , last name , email and time user login to system for all users before the "2023-01-01"
 ![12](https://user-images.githubusercontent.com/59260120/224189007-814b6614-11c2-46ae-bc78-9196ac9d9a80.png)
-##### 11- Get all the first , last name for user with amount of donation for each campagin
+##### 10- Get all the first , last name for user with amount of donation for each campagin
 ![13](https://user-images.githubusercontent.com/59260120/224189304-9c25ea95-02fc-4024-817a-3f1e92b98489.png)
-##### 12- Get all the first , last name for user with amount of donation for each campagin and catergories for campagin
+##### 11- Get all the first , last name for user with amount of donation for each campagin and catergories for campagin
 ![14](https://user-images.githubusercontent.com/59260120/224189360-1af5f04b-4a52-4ade-8fb0-c97c8f3cd709.png)
 
 ##### 20-Get the total amount of money and the total number of donors and total number of capmaign
@@ -68,6 +66,8 @@ this is a database schema
 ##### 7- Get the  third and fourth user that don't to all 
 ![7](https://user-images.githubusercontent.com/59260120/224187975-7660a332-04cd-4a34-b42f-12cac66008c0.png)
 
+##### 7- get first_name , last_name  if  user has compand add status donor if not add ststus normal user
+![9](https://user-images.githubusercontent.com/59260120/224188482-bffb64e8-c9f8-4b40-96b2-919f8ad0621c.png)
 
 #### 8-get first_name and amount of money for all user whose donate or not 
 ![8](https://user-images.githubusercontent.com/59260120/224188126-e822fbed-3bfc-4461-b02a-9b9c0c6fd965.png)

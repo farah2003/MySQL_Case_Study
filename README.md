@@ -29,17 +29,17 @@ this is a database schema
 
 
 #### Easy
-###### 1- Get user id ,email and first name for users with last name doe.
+##### 1- Get user id ,email and first name for users with last name doe.
 
 ![1](https://user-images.githubusercontent.com/59260120/224186440-597d6a7d-182e-42d3-a41c-91fd51e1957d.png)
 
-###### 2- Get first name , last name and role for all user 
+##### 2- Get first name , last name and role for all user 
 ![2](https://user-images.githubusercontent.com/59260120/224187081-91e08526-c185-4ce6-8733-79bc477dff22.png)
 
 ###### 3- Get first name , last name and email for users with role admin
 ![3](https://user-images.githubusercontent.com/59260120/224187365-a5dc9c87-55b9-49ef-9f5b-b0cad28d3b55.png)
 
-###### 5- Get title an target money for campaign with description null and status open
+##### 5- Get title an target money for campaign with description null and status open
 ![5](https://user-images.githubusercontent.com/59260120/224190343-6a34064d-4e8e-459b-9eb5-d415fcf3376a.png)
 
 ##### 6- Get title and target money for all campaigns with target money in range greater than 10000  and less than 20000

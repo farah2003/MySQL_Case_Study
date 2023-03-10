@@ -57,7 +57,8 @@ this is a database schema
 ##### 10- Get first and last name of all donors along with donation amount for each campaign.
 ![13](https://user-images.githubusercontent.com/59260120/224189304-9c25ea95-02fc-4024-817a-3f1e92b98489.png)
 ##### 11- Get first and last name of all donors along with donation amount for each campaign and catergories for campagin.
-![14](https://user-images.githubusercontent.com/59260120/224189360-1af5f04b-4a52-4ade-8fb0-c97c8f3cd709.png)
+![ؤؤؤؤؤؤؤؤؤؤؤؤؤؤ](https://user-images.githubusercontent.com/59260120/224368909-40e145ab-b104-457f-a479-0507f8ac12aa.png)
+
 ##### 12- Get first_name , email and last name  of user with amount donation  greater than or equal 100.00.
 ![16 donation greater than or reauql 100 and name of this donors ](https://user-images.githubusercontent.com/59260120/224358330-e2713ad3-6ad7-4e09-8b1e-866f78f55ee2.png)
 ##### 13- Get all campaign donations donated by Bob Smith.

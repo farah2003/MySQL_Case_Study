@@ -65,9 +65,6 @@ this is a database schema
 ##### 14-I want the 3rd and 4th highest amounts for donations with first name last name amount and email of donor donated this donations
 ![7](https://user-images.githubusercontent.com/59260120/224187975-7660a332-04cd-4a34-b42f-12cac66008c0.png)
 
-#### 8-get first_name and amount of money for all user whose donate or not 
-![8](https://user-images.githubusercontent.com/59260120/224188126-e822fbed-3bfc-4461-b02a-9b9c0c6fd965.png)
-need change
 #### Intermediate
 ##### 1-Get the total amount of money and the total number of donors and total number of capmaign
 ![15](https://user-images.githubusercontent.com/59260120/224189501-26d13632-aadf-49fd-a8e0-daeceb142c09.png)

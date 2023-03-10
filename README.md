@@ -40,6 +40,9 @@ this is a database schema
 ##### 3- Get first name , last name and email for users with role admin
 ![3](https://user-images.githubusercontent.com/59260120/224187365-a5dc9c87-55b9-49ef-9f5b-b0cad28d3b55.png)
 
+#### 4- Get fist name ,last name and phone for families with last name start with  m  or end with  ez or contain il
+![44](https://user-images.githubusercontent.com/59260120/224308972-54e96b79-4f79-4965-9d50-a68d34d6fe0b.png)
+
 ##### 5- Get title an target money for campaign with description null and status open
 ![5](https://user-images.githubusercontent.com/59260120/224190343-6a34064d-4e8e-459b-9eb5-d415fcf3376a.png)
 

@@ -38,6 +38,9 @@ this is a database schema
 
 ###### 3- Get first_name , last_name and email for users with role admin
 ![3](https://user-images.githubusercontent.com/59260120/224187365-a5dc9c87-55b9-49ef-9f5b-b0cad28d3b55.png)
+###### 5- Get title an target money for campaign with description null and status open
+![5](https://user-images.githubusercontent.com/59260120/224190343-6a34064d-4e8e-459b-9eb5-d415fcf3376a.png)
+
 ##### 6- Get all campaigns with target money in range of (10000 ,20000)
 
 ![6](https://user-images.githubusercontent.com/59260120/224190007-48678995-bca7-4390-b6a7-e8257970fd96.png)

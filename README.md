@@ -63,7 +63,6 @@ this is a database schema
 ##### Get all campaign donations donated by Bob Smith
 ![17get call campaigns that donors Bob smith ](https://user-images.githubusercontent.com/59260120/224358558-2a48f569-e1c1-44bd-8f13-f5507004eb9d.png)
 
-##### 21-Get first name , last name and phone form families without capons 
 ##### 22-Get first name , last name and total amount of money for top three donors 
 ##### 7- Get the  third and fourth user that don't to all
 ![7](https://user-images.githubusercontent.com/59260120/224187975-7660a332-04cd-4a34-b42f-12cac66008c0.png)
@@ -81,7 +80,7 @@ need change
 ![donors with totalt donation   200](https://user-images.githubusercontent.com/59260120/224354624-5c59b05b-a341-4a74-89a9-d784def17327.png)
 ##### 3-Get first_name , last name and total capons (Sum of capons that family get from different campaigns) for familiy with total capons less than 1000.00
 ![family eith capons less that 1000 00](https://user-images.githubusercontent.com/59260120/224355065-509b49ae-c2d5-47d1-9cdb-43734949cdd9.png)
-##### 4-Get first name and last name for family يid not get capons 
+##### 4-Get first name and last name for family did not get capons 
 ![family withour benfit from daonation](https://user-images.githubusercontent.com/59260120/224355308-49de04c5-a113-4a06-a3f0-e08b54efb325.png)
 ##### 5- get fist name and last name and total amount(sum of donation that user donated for different campaigns) for tow  highest donations 
 ![get top tow donors for all campagins](https://user-images.githubusercontent.com/59260120/224355688-40fcfbb1-cd41-4939-9897-3480f5d5c584.png)

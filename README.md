@@ -68,6 +68,7 @@ this is a database schema
 ##### 20-Get the total amount of money and the total number of donors and total number of capmaign
 ![15](https://user-images.githubusercontent.com/59260120/224189501-26d13632-aadf-49fd-a8e0-daeceb142c09.png)
 ##### 21-Get first name , last name and phone form families without capons 
+##### 22-Get first name , last name and total amount of money for top three donors 
 ##### 7- Get the  third and fourth user that don't to all 
 ![7](https://user-images.githubusercontent.com/59260120/224187975-7660a332-04cd-4a34-b42f-12cac66008c0.png)
 need change

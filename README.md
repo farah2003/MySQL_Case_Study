@@ -46,7 +46,7 @@ this is a database schema
 ##### 6- Get title and target money for all campaigns with target money in range greater than 10000  and less than 20000
 ![6](https://user-images.githubusercontent.com/59260120/224190007-48678995-bca7-4390-b6a7-e8257970fd96.png)
 
-##### 7- Get the third and fourth user that don't to all 
+##### 7- Get the  third and fourth user that don't to all 
 ![7](https://user-images.githubusercontent.com/59260120/224187975-7660a332-04cd-4a34-b42f-12cac66008c0.png)
 need change
 

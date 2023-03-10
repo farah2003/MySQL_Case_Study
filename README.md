@@ -60,13 +60,13 @@ this is a database schema
 ![14](https://user-images.githubusercontent.com/59260120/224189360-1af5f04b-4a52-4ade-8fb0-c97c8f3cd709.png)
 ##### 12- Get first_name , email and last name  of user with amount donation  greater than or equal 100.00
 ![16 donation greater than or reauql 100 and name of this donors ](https://user-images.githubusercontent.com/59260120/224358330-e2713ad3-6ad7-4e09-8b1e-866f78f55ee2.png)
-##### Get all campaign donations donated by Bob Smith
+##### 13- Get all campaign donations donated by Bob Smith
 ![17get call campaigns that donors Bob smith ](https://user-images.githubusercontent.com/59260120/224358558-2a48f569-e1c1-44bd-8f13-f5507004eb9d.png)
-
-##### 22-Get first name , last name and total amount of money for top three donors 
-##### 7- Get the  third and fourth user that don't to all
+##### 14-I want the 3rd and 4th highest amounts for donations with first name last name amount and email of donor donated this donations
 ![7](https://user-images.githubusercontent.com/59260120/224187975-7660a332-04cd-4a34-b42f-12cac66008c0.png)
 
+
+##### 22-Get first name , last name and total amount of money for top three donors 
 ##### 7- get first_name , last_name  if  user has compand add status donor if not add ststus normal user
 ![9](https://user-images.githubusercontent.com/59260120/224188482-bffb64e8-c9f8-4b40-96b2-919f8ad0621c.png)
 

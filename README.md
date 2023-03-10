@@ -29,36 +29,36 @@ this is a database schema
 
 
 #### Easy
-##### 1- Get user id ,email and first name for users with last name doe.
+##### 1- Get user id ,email and first name of users with last name doe.
 
 ![1](https://user-images.githubusercontent.com/59260120/224287253-8d48ae10-087b-462a-8c81-dd1381638a9b.png)
 
-##### 2- Get first name , last name and role for all user 
+##### 2- Get first name , last name and role of all user 
 
 ![2](https://user-images.githubusercontent.com/59260120/224287309-1e2dad43-744d-483f-aa28-357e27945810.png)
 
-##### 3- Get first name , last name and email for users with role admin
+##### 3- Get first name , last name and email of users with role admin
 ![3](https://user-images.githubusercontent.com/59260120/224187365-a5dc9c87-55b9-49ef-9f5b-b0cad28d3b55.png)
 
-##### 4- Get fist name ,last name and phone for families with last name start with  m  or end with  ez or contain il
+##### 4- Get fist name ,last name and phone of families with last name start with  m  or end with  ez or contain il
 ![44](https://user-images.githubusercontent.com/59260120/224308972-54e96b79-4f79-4965-9d50-a68d34d6fe0b.png)
 
-##### 5- Get title an target money for campaign with description null and status open
+##### 5- Get title an target money of campaign with description null and status open
 ![5](https://user-images.githubusercontent.com/59260120/224190343-6a34064d-4e8e-459b-9eb5-d415fcf3376a.png)
 
-##### 6- Get title and target money for all campaigns with target money in range greater than 10000  and less than 20000
+##### 6- Get title and target money of all campaigns with target money in range greater than 10000  and less than 20000
 ![6](https://user-images.githubusercontent.com/59260120/224190007-48678995-bca7-4390-b6a7-e8257970fd96.png)
-##### 7- Get capmagin name and cateegory for all campaigns with catergory Food or Health
+##### 7- Get capmagin name and cateegory of all campaigns with catergory Food or Health
 ![10](https://user-images.githubusercontent.com/59260120/224188616-e5021e32-d6f4-4f6a-8989-87fa4403eafe.png)
 ##### 8-Get capmagin name and cateegory for all campaigns with catergory Food or Education or Human Rights using (in)
 ![11](https://user-images.githubusercontent.com/59260120/224188775-bc788e23-49a0-4cb2-b3e4-0232675befa4.png)
-##### 9 -Get  fisrt name , last name , email and time user login to system for all users before the "2023-01-01"
+##### 9 -Get the first name, last name, email, and time login system  of all users created  before"2023-01-01"
 ![12](https://user-images.githubusercontent.com/59260120/224189007-814b6614-11c2-46ae-bc78-9196ac9d9a80.png)
-##### 10- Get first name , last name for all donors with amount of donation for each campagin
+##### 10- Get first and last name of all donors along with donation amount for each campaign
 ![13](https://user-images.githubusercontent.com/59260120/224189304-9c25ea95-02fc-4024-817a-3f1e92b98489.png)
-##### 11- Get  first , last name for user with amount of donation for each campagin and catergories for campagin
+##### 11- Get first and last name of all donors along with donation amount for each campaign and catergories for campagin
 ![14](https://user-images.githubusercontent.com/59260120/224189360-1af5f04b-4a52-4ade-8fb0-c97c8f3cd709.png)
-##### 12- Get first_name , email and last name with amount donation  greater than or equal 100.00
+##### 12- Get first_name , email and last name  of user with amount donation  greater than or equal 100.00
 ![16 donation greater than or reauql 100 and name of this donors ](https://user-images.githubusercontent.com/59260120/224358330-e2713ad3-6ad7-4e09-8b1e-866f78f55ee2.png)
 ##### Get all campaign donations donated by Bob Smith
 ![17get call campaigns that donors Bob smith ](https://user-images.githubusercontent.com/59260120/224358558-2a48f569-e1c1-44bd-8f13-f5507004eb9d.png)

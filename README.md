@@ -54,7 +54,7 @@ this is a database schema
 ![11](https://user-images.githubusercontent.com/59260120/224188775-bc788e23-49a0-4cb2-b3e4-0232675befa4.png)
 ##### 9 -Get  fisrt name , last name , email and time user login to system for all users before the "2023-01-01"
 ![12](https://user-images.githubusercontent.com/59260120/224189007-814b6614-11c2-46ae-bc78-9196ac9d9a80.png)
-##### 10- Get all the first , last name for user with amount of donation for each campagin
+##### 10- Get first name , last name for all donors with amount of donation for each campagin
 ![13](https://user-images.githubusercontent.com/59260120/224189304-9c25ea95-02fc-4024-817a-3f1e92b98489.png)
 ##### 11- Get all the first , last name for user with amount of donation for each campagin and catergories for campagin
 ![14](https://user-images.githubusercontent.com/59260120/224189360-1af5f04b-4a52-4ade-8fb0-c97c8f3cd709.png)

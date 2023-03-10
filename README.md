@@ -85,6 +85,8 @@ this is a database schema
 ##![7777](https://user-images.githubusercontent.com/59260120/224363245-cc3f95c2-05a6-4af8-a672-d586dfc72073.png)
 ##### 8- Get total number of donors for each campains 
 ![88888](https://user-images.githubusercontent.com/59260120/224363226-f9bb56f2-1982-40fb-8403-d2ca9b9956e6.png)
+##### 9 Get first name , last name for user donated more than two
+![user  who donatte more that 2 time in system](https://user-images.githubusercontent.com/59260120/224366895-232aebc2-2894-4262-abae-c19a60af1d8e.png)
 
 ## Hard
 

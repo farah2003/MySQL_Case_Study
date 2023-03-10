@@ -46,9 +46,7 @@ this is a database schema
 ##### 6- Get title and target money for all campaigns with target money in range greater than 10000  and less than 20000
 ![6](https://user-images.githubusercontent.com/59260120/224190007-48678995-bca7-4390-b6a7-e8257970fd96.png)
 
-##### 7- Get the  third and fourth user that don't to all 
-![7](https://user-images.githubusercontent.com/59260120/224187975-7660a332-04cd-4a34-b42f-12cac66008c0.png)
-need change
+
 
 #### 8-get first_name and amount of money for all user whose donate or not 
 ![8](https://user-images.githubusercontent.com/59260120/224188126-e822fbed-3bfc-4461-b02a-9b9c0c6fd965.png)
@@ -69,6 +67,11 @@ need change
 
 ##### 20-Get the total amount of money and the total number of donors and total number of capmaign
 ![15](https://user-images.githubusercontent.com/59260120/224189501-26d13632-aadf-49fd-a8e0-daeceb142c09.png)
+
+
+##### 7- Get the  third and fourth user that don't to all 
+![7](https://user-images.githubusercontent.com/59260120/224187975-7660a332-04cd-4a34-b42f-12cac66008c0.png)
+need change
 #### Intermediate
 
 

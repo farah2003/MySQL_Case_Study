@@ -71,7 +71,8 @@ this is a database schema
 ##### 2- Get first name , last name and total donation(sum of donation that user donated for different campaigns) for donors with total donation greater than 200
 ![donors with totalt donation   200](https://user-images.githubusercontent.com/59260120/224354624-5c59b05b-a341-4a74-89a9-d784def17327.png)
 ##### 3-Get first_name , last name and total capons (Sum of capons that family get from different campaigns) for familiy with total capons less than 1000.00
-![family eith capons less that 1000 00](https://user-images.githubusercontent.com/59260120/224355065-509b49ae-c2d5-47d1-9cdb-43734949cdd9.png)
+![33333333](https://user-images.githubusercontent.com/59260120/224363722-ea8145ea-4b23-4acc-84de-c31f5b53c1a7.png)
+
 ##### 4-Get first name and last name for family did not get capons 
 ![44444444](https://user-images.githubusercontent.com/59260120/224363354-557e4423-4a1f-45bf-8c8a-913e02c2059c.png)
 

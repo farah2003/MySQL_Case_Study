@@ -89,4 +89,9 @@ this is a database schema
 ## Hard
 
 
-# Insert ,update ,delete
+## Insert ,update ,delete
+
+##### 1- Insert "Environment" category to the campaign category table.
+##### 2- Insert "coming soon" and "about to end" to campaign status table.
+##### 3- Delete users with name   first name "David"
+##### 4- update title to "Animal rights" in id 8;

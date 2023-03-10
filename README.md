@@ -34,9 +34,36 @@ this is a database schema
 ![1](https://user-images.githubusercontent.com/59260120/224186440-597d6a7d-182e-42d3-a41c-91fd51e1957d.png)
 
 ###### 2- Get first_name , last_name and role for all user 
-##![2](https://user-images.githubusercontent.com/59260120/224187081-91e08526-c185-4ce6-8733-79bc477dff22.png)
+![2](https://user-images.githubusercontent.com/59260120/224187081-91e08526-c185-4ce6-8733-79bc477dff22.png)
 
+###### 3- Get first_name , last_name and email for users with role admin
+![3](https://user-images.githubusercontent.com/59260120/224187365-a5dc9c87-55b9-49ef-9f5b-b0cad28d3b55.png)
+
+##### 7- Get the third and fourth user that don't to all 
+![7](https://user-images.githubusercontent.com/59260120/224187975-7660a332-04cd-4a34-b42f-12cac66008c0.png)
+//بدها تعديل
+#### 8-get first_name and amount of money for all user whose donate or not 
+###![8](https://user-images.githubusercontent.com/59260120/224188126-e822fbed-3bfc-4461-b02a-9b9c0c6fd965.png)
+##### 9- get first_name , last_name  if  user has compand add status donor if not add ststus normal user
+![9](https://user-images.githubusercontent.com/59260120/224188482-bffb64e8-c9f8-4b40-96b2-919f8ad0621c.png)
+###### 10- Get capmagin name and cateegory for all campaigns with catergory Food or Health
+![10](https://user-images.githubusercontent.com/59260120/224188616-e5021e32-d6f4-4f6a-8989-87fa4403eafe.png)
+
+##### 11-Get capmagin name and cateegory for all campaigns with catergory Food or Education or Human Rights (using in)
+![11](https://user-images.githubusercontent.com/59260120/224188775-bc788e23-49a0-4cb2-b3e4-0232675befa4.png)
+##### 12 -Get  fisrt name , last name , email and time user login to system for all users before the "2023-01-01"
+![12](https://user-images.githubusercontent.com/59260120/224189007-814b6614-11c2-46ae-bc78-9196ac9d9a80.png)
+##### 13- Get all the first , last name for user with amount of donation for each campagin
+![13](https://user-images.githubusercontent.com/59260120/224189304-9c25ea95-02fc-4024-817a-3f1e92b98489.png)
+
+##### 14- Get all the first , last name for user with amount of donation for each campagin and catergories for campagin
+![14](https://user-images.githubusercontent.com/59260120/224189360-1af5f04b-4a52-4ade-8fb0-c97c8f3cd709.png)
+
+### 20-Get the total amount of money and the total number of donors and total number of capmaign
+##![15](https://user-images.githubusercontent.com/59260120/224189501-26d13632-aadf-49fd-a8e0-daeceb142c09.png)
 #### Intermediate
+
+
 
 ##
  Hard

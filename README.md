@@ -73,15 +73,20 @@ this is a database schema
 ##### 3-Get first_name , last name and total capons (Sum of capons that family get from different campaigns) for familiy with total capons less than 1000.00
 ![family eith capons less that 1000 00](https://user-images.githubusercontent.com/59260120/224355065-509b49ae-c2d5-47d1-9cdb-43734949cdd9.png)
 ##### 4-Get first name and last name for family did not get capons 
-![family withour benfit from daonation](https://user-images.githubusercontent.com/59260120/224355308-49de04c5-a113-4a06-a3f0-e08b54efb325.png)
+![44444444](https://user-images.githubusercontent.com/59260120/224363354-557e4423-4a1f-45bf-8c8a-913e02c2059c.png)
+
 ##### 5- get fist name and last name and total amount(sum of donation that user donated for different campaigns) for tow  highest donations 
-![get top tow donors for all campagins](https://user-images.githubusercontent.com/59260120/224355688-40fcfbb1-cd41-4939-9897-3480f5d5c584.png)
+![5555555](https://user-images.githubusercontent.com/59260120/224363332-bbbfe1bf-c143-41aa-8e5e-3d085253cfe4.png)
+
 ##### 6- Get fisrt name ,last name  user with donation in status donors and user without donation as status donor
-![get user with donation and user witoutn domation](https://user-images.githubusercontent.com/59260120/224356116-c3feba4e-e27a-460b-9e7a-2a3d88a27a46.png)
-##### 7- Get total number of campaigns for each catergory type
-![number of campagin for each catergoris and all](https://user-images.githubusercontent.com/59260120/224356378-47dc92c7-ebdd-4f59-b86d-77d5b7995d28.png)
+![666666666666](https://user-images.githubusercontent.com/59260120/224363298-e0de78d5-9c59-4f88-8174-379add796aac.png)
+
+
+### 7- Get total number of campaigns for each catergory type
+##![7777](https://user-images.githubusercontent.com/59260120/224363245-cc3f95c2-05a6-4af8-a672-d586dfc72073.png)
 ##### 8- Get total number of donors for each campains 
-![number of donros for each campgins](https://user-images.githubusercontent.com/59260120/224357560-e88747db-3037-4163-9094-603f1cf09a7e.png)
+![88888](https://user-images.githubusercontent.com/59260120/224363226-f9bb56f2-1982-40fb-8403-d2ca9b9956e6.png)
+
 
 ## 
 

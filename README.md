@@ -47,7 +47,8 @@ this is a database schema
 
 ##### 7- Get the third and fourth user that don't to all 
 ![7](https://user-images.githubusercontent.com/59260120/224187975-7660a332-04cd-4a34-b42f-12cac66008c0.png)
-//بدها تعديل
+need change
+
 #### 8-get first_name and amount of money for all user whose donate or not 
 ###![8](https://user-images.githubusercontent.com/59260120/224188126-e822fbed-3bfc-4461-b02a-9b9c0c6fd965.png)
 ##### 9- get first_name , last_name  if  user has compand add status donor if not add ststus normal user

@@ -31,12 +31,13 @@ this is a database schema
 #### Easy
 ##### 1- Get user id ,email and first name for users with last name doe.
 
-![1](https://user-images.githubusercontent.com/59260120/224186440-597d6a7d-182e-42d3-a41c-91fd51e1957d.png)
+![1](https://user-images.githubusercontent.com/59260120/224287253-8d48ae10-087b-462a-8c81-dd1381638a9b.png)
 
 ##### 2- Get first name , last name and role for all user 
-![2](https://user-images.githubusercontent.com/59260120/224187081-91e08526-c185-4ce6-8733-79bc477dff22.png)
 
-###### 3- Get first name , last name and email for users with role admin
+![2](https://user-images.githubusercontent.com/59260120/224287309-1e2dad43-744d-483f-aa28-357e27945810.png)
+
+##### 3- Get first name , last name and email for users with role admin
 ![3](https://user-images.githubusercontent.com/59260120/224187365-a5dc9c87-55b9-49ef-9f5b-b0cad28d3b55.png)
 
 ##### 5- Get title an target money for campaign with description null and status open

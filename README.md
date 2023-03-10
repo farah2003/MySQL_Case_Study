@@ -50,7 +50,7 @@ this is a database schema
 need change
 
 #### 8-get first_name and amount of money for all user whose donate or not 
-###![8](https://user-images.githubusercontent.com/59260120/224188126-e822fbed-3bfc-4461-b02a-9b9c0c6fd965.png)
+![8](https://user-images.githubusercontent.com/59260120/224188126-e822fbed-3bfc-4461-b02a-9b9c0c6fd965.png)
 ##### 9- get first_name , last_name  if  user has compand add status donor if not add ststus normal user
 ![9](https://user-images.githubusercontent.com/59260120/224188482-bffb64e8-c9f8-4b40-96b2-919f8ad0621c.png)
 ###### 10- Get capmagin name and cateegory for all campaigns with catergory Food or Health
@@ -66,7 +66,7 @@ need change
 ##### 14- Get all the first , last name for user with amount of donation for each campagin and catergories for campagin
 ![14](https://user-images.githubusercontent.com/59260120/224189360-1af5f04b-4a52-4ade-8fb0-c97c8f3cd709.png)
 
-### 20-Get the total amount of money and the total number of donors and total number of capmaign
+##### 20-Get the total amount of money and the total number of donors and total number of capmaign
 ![15](https://user-images.githubusercontent.com/59260120/224189501-26d13632-aadf-49fd-a8e0-daeceb142c09.png)
 #### Intermediate
 

@@ -77,7 +77,7 @@ this is a database schema
 ##### 4-Get first name and last name for family did not get capons.
 ![44444444](https://user-images.githubusercontent.com/59260120/224363354-557e4423-4a1f-45bf-8c8a-913e02c2059c.png)
 
-##### 5- get fist name and last name and total amount(sum of donation that user donated for different campaigns) for tow  highest donations .
+##### 5- get fist name and last name and total amount(sum of donation that user donated for different campaigns) of tow  highest donations .
 ![5555555](https://user-images.githubusercontent.com/59260120/224363332-bbbfe1bf-c143-41aa-8e5e-3d085253cfe4.png)
 
 ##### 6- Get fisrt name ,last name  user with donation in status donors and user without donation as status donor.

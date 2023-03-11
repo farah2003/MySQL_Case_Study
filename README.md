@@ -1,5 +1,5 @@
 # MySQL_Case_Study
-This case study is about a simple donation website. Will help you to practice working with the database as a real project
+This case study is about a simple donation website. Will help you to practicing the database as a real project
 here is a brief about database tables and the relations between tables.
 
 this is a database schema

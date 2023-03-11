@@ -83,7 +83,7 @@ this is a database schema
 ##### 6- Get fisrt name ,last name  user with donation in status donors and user without donation as status donor.
 ![666666666666](https://user-images.githubusercontent.com/59260120/224363298-e0de78d5-9c59-4f88-8174-379add796aac.png)
 ##### 7- Get total number of campaigns for each catergory type.
-![7777](https://user-images.githubusercontent.com/59260120/224363245-cc3f95c2-05a6-4af8-a672-d586dfc72073.png)
+![1](https://user-images.githubusercontent.com/59260120/224496740-4a3fbe17-c266-4c15-8336-7f7a571c7fbb.png)
 ##### 8- Get total number of donors for each campains.
 ![88888](https://user-images.githubusercontent.com/59260120/224363226-f9bb56f2-1982-40fb-8403-d2ca9b9956e6.png)
 ##### 9 Get the first name, and last name of the user who donated more than twice.

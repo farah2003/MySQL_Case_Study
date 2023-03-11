@@ -80,8 +80,9 @@ this is a database schema
 ##### 5- get fist name and last name and total amount(sum of donation that user donated for different campaigns) of tow  highest donations .
 ![5555555](https://user-images.githubusercontent.com/59260120/224363332-bbbfe1bf-c143-41aa-8e5e-3d085253cfe4.png)
 
-##### 6- Get fisrt name ,last name  user with donation in status donors and user without donation as status donor.
-![666666666666](https://user-images.githubusercontent.com/59260120/224363298-e0de78d5-9c59-4f88-8174-379add796aac.png)
+### 6- Get fisrt name ,last name of user with donation in status donors and user without donations  not donor status.
+![1](https://user-images.githubusercontent.com/59260120/224501300-fae8be18-5e87-4f9b-be1d-07bfe15c6f45.png)
+
 ##### 7- Get total number of campaigns for each catergory type.
 ![1](https://user-images.githubusercontent.com/59260120/224496740-4a3fbe17-c266-4c15-8336-7f7a571c7fbb.png)
 ##### 8- Get total number of donors for each campains.
